@@ -1,2 +1,2 @@
 # java-swing-movingsprites
-Run ShootingMissileEx.java
+Run ShootingMissilesEx.java
